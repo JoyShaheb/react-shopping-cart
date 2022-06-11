@@ -33,5 +33,5 @@ export const Primary = Template.bind({});
 Primary.args = {
   label: "Button",
   variant: "",
-  size: "",
+  size: "fs-1",
 };

@@ -1,7 +1,9 @@
 import React from "react";
 
 const Button = ({ variant, label, size }) => {
-  return <div className={`btn ${variant} ${size}`}>{label}</div>;
+  return (
+    <div classNameName={`btn ${variant} btn-success ${size}`}>{label}</div>
+  );
 };
 
 export default Button;
