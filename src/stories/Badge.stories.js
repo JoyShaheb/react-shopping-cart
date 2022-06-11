@@ -1,5 +1,3 @@
-// Button.stories.js|jsx
-
 import React from "react";
 import Badge from "../components/Badge/Badge";
 import "bootstrap/dist/css/bootstrap.min.css";
