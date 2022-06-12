@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "../components/Card/Card";
+import Card from "../widget/Card/Card";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap";
 
