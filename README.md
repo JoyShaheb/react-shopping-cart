@@ -4,6 +4,7 @@
 - npx storybook init
 - npm install bootstrap @popperjs/core --save
 - npm install axios react-router-dom
+- npm i react-star-rating-component
 
 [for media query options]
 
